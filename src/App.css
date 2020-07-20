@@ -42,11 +42,11 @@
   background-color: black;
   border-top: "1px solid #E7E7E7";
   text-align: "center";
-  padding: "10px";
+  padding: "30px";
   position: "fixed !important";
   left: "0 !important";
   bottom: "0 !important";
-  height: "60px";
+  height: "70px";
   width: "100%";
   /* margin-top: 45%; */
 }
