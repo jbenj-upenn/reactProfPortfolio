@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Breaking Bread",
-      "image": "./public/images/breakingBreadDonations.png",
+      "image": "../images/breakingBreadDonations.png",
       "description": "Breaking Bread is an app designed to connect organizations or individuals that deal with hunger with restaurants, food banks, or individuals who has the means to meet those hunger-related needs.",
       "dependencies": "Express, MySQL, Sequelize, Handlebars, Passport, Bootstrap",
       "url": "https://breaking-bread-donate.herokuapp.com/",
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Covid Activities",
-      "image": "./public/images/covidActivitiesfront.png",
+      "image": "../images/covidActivitiesfront.png",
       "description": "Covid Activities is an app that my group and I developed to alleviate bored during the quarantine. In our version, users are able to search for either food recipes based on specific ingredients or culinary preferences, or they can search for books based on author or genre.",
       "dependencies": "HTML, Bulma CSS framework, JavaScript, jQuery, Pixlr",
       "url": "https://jbenj-upenn.github.io/CovidActivities/",
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Personal Profile",
-      "image": "./public/images/firstPortfolio.png",
+      "image": "../images/firstPortfolio.png",
       "description": "My first professional portfolio displays general information about me, contact information, a portfolio page, and links to my social media presences.",
       "dependencies": "HTML, Materialize CSS framework",
       "url": "https://jbenj-upenn.github.io/personal-profile-v2020/",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "Burger Smash: Burger Consumption Tracker and Planner",
-      "image": "./public/images/burgerSmash.png",
+      "image": "../images/burgerSmash.png",
       "description": "Burger Smash was completed as a homework assignment in the University of Pennsylvania's/Trilogy Educational Service's full-stack computer coding bootcamp. It is a front- and back-end application that is able to allow users to enter new burgers to eat, delete those already consumed, and keep a list of the same.",
       "dependencies": "Express (Node), MySQL, ORM/Controller, Javascript, CSS, HTML",
       "url": "https://immense-river-52204.herokuapp.com/",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "Express Note-Taker",
-      "image": "./public/images/expressNoteTaker2.png",
+      "image": "../images/expressNoteTaker2.png",
       "description": "The Express Note-Taker was completed as a homework assignment. The app allows users to create notes that persist until they are deleted.",
       "dependencies": "HTML, Bootstrap CSS framework, JavaScript, jQuery, Nodejs NPM packages: Express, FS, Nodemon",
       "url": "https://expressnotetaker-jbenj.herokuapp.com/",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "Weather Outlook",
-      "image": "./public/images/weatherApp.png",
+      "image": "../images/weatherApp.png",
       "description": "The Weather App makes API calls according to the town a user would like outlook information for.",
       "dependencies": "HTML, Bootstrap CSS framework, Javascript, jQuery (AJAX calls)",
       "url": "https://jbenj-upenn.github.io/WeatherOutlook_6/",

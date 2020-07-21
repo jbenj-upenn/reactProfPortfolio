@@ -4,9 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Footer from './components/Footer';
 import Header from './components/Header';
+import Portfolio from './pages/Portfolio';
 import AboutMeContact from './pages/AboutMeContact';
-// import Portfolio from './pages/Portfolio';
-// import projects from './projects.json';
 
 function App() {
     return (
@@ -16,6 +15,8 @@ function App() {
           <Footer />
           <Route exact path="/" component={AboutMeContact} />
           <Route exact path="/about" component={AboutMeContact} />
+          <Route exact path="/portfolio" component={Portfolio} />
+          {/* <Portfolio /> */}
         </Router>
         {/* <Title>Portfolio of Projects</Title>
         {this.state.projects.map(project => (

@@ -1,20 +1,24 @@
-import React from "react";
-import Title from "./components/Title"
-import Wrapper from "./components/Wrapper"
+import React, { Component } from "react";
+import Title from "../../components/Title"
+// import Wrapper from "./Wrapper"
+import projects from '../../projects.json';
+import PortfolioComponent from '../../components/Portfolio'
+// import App from '../App'
+// import AboutMeContact from './pages/AboutMeContact'
 // import "./style.css";
 
 class Portfolio extends Component {
   state = {
     projects
   };
-
   render() {
     return (
      
-        <Wrapper>
+        <div>
+          {/* <h1>Projects</h1> */}
           <Title>Portfolio of Projects</Title>
           {this.state.projects.map(project => (
-            <Portfolio
+            <PortfolioComponent
               id={project.id}
               key={project.id}
               name={project.name}
@@ -25,7 +29,7 @@ class Portfolio extends Component {
               github={project.github}
             />
           ))}
-        </Wrapper>
+        </div>
       );
     }
   }

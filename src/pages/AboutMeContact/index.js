@@ -1,4 +1,6 @@
 import React from 'react';
+// import './App';
+// import Portfolio from './components/Portfolio'
 
 function AboutMe(props) {
     return (
@@ -14,6 +16,7 @@ function AboutMe(props) {
             <li><strong>***Freelance artist</strong>, focused on Graffiti and Street Murals</li>
             <br></br>
             <br></br>
+        
             <h2>Contact Me:</h2>
 
             <li><strong>Email:</strong>joshuasevendavid@gmail.com</li>
@@ -21,9 +24,8 @@ function AboutMe(props) {
             <li>See my <strong>Résumé <a href="../documents/JoshuaBenjamin.miscCV.ABR.2020.pdf">here</a></strong></li>
             <br></br>
             <br></br>
-            <br></br>
             
-            <h2>View my <a href="./Portfolio">Full Portfolio</a></h2>
+            <h2>View my <a href="/portfolio">Full Portfolio</a></h2>
         </>
     )
 }

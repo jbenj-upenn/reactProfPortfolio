@@ -6,7 +6,7 @@ function Header(props){
         return (
 
             <Navbar bg="light" expand="lg">
-                <Navbar.Brand href="#home">Joshua Benjamin Professional Portfolio</Navbar.Brand>
+                <Navbar.Brand href="/">Joshua Benjamin Professional Portfolio</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
