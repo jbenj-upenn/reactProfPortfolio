@@ -4,17 +4,6 @@
     height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -30,14 +19,20 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contact {
+  padding-top: 40px;
 }
+
+.profile {
+  height: 290px;
+  width: 290px;
+  margin-left: 28%;
+  position: relative;
+}
+.row {
+  padding-bottom: 60px;
+}
+
 #sticky-footer {
   background-color: black;
   border-top: "1px solid #E7E7E7";

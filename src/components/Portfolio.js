@@ -13,7 +13,7 @@ function PortfolioComponent(props) {
             <p>{props.description}</p>
             </h5>
             <div >
-                <img src={props.image} className='card-img-top'/>
+                <img alt={props.name}img src={props.image} className='card-img-top'/>
             </div>
             <hr></hr>
             <h5> Dependencies:

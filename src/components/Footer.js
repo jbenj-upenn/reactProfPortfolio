@@ -17,7 +17,7 @@ function Footer(props){
         }
         return (
             <>
-            <footer id="sticky-footer" className=" bg-dark text-white-50" style={stickyFooter}>
+            <footer id="sticky-footer" className="fixed-bottom bg-dark text-white-50" style={stickyFooter}>
                 <div className="footer container text-center">
                     <small>Joshua Benjamin</small>
                    <br></br>
