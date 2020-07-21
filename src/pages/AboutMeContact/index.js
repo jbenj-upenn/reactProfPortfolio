@@ -21,7 +21,7 @@ function AboutMe(props) {
 
             <li><strong>Email:</strong>joshuasevendavid@gmail.com</li>
             <li><strong>Phone:</strong>717.538.0866</li>
-            <li>See my <strong>Résumé <a href="../documents/JoshuaBenjamin.miscCV.ABR.2020.pdf">here</a></strong></li>
+            <li>See my <strong>Résumé <a href="../documents/JoshuaBenjamin.miscCV.ALT.2020.pdf">here</a></strong></li>
             <br></br>
             <br></br>
             
