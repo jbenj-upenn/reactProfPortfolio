@@ -2,6 +2,10 @@
 
 This is a remake of my professional portfolio using ReactJS.
 
+### Link (not working as yet)
+
+https://jbenj-upenn.github.io/reactProfPortfolio/
+
 ### Dependencies
 
 Mostly utilizes ReactJS and, as such, is a front-end project
