@@ -2,9 +2,9 @@
 
 This is a remake of my professional portfolio using ReactJS.
 
-### Link (not working as yet)
+### Link 
 
-https://jbenj-upenn.github.io/reactProfPortfolio/
+https://react-personal-profile.herokuapp.com/
 
 ### Dependencies
 
@@ -13,6 +13,10 @@ Mostly utilizes ReactJS and, as such, is a front-end project
 ### Problems
 
 The first build of the page on Github only shows a part of the README, not the actual application
+
+### Solution
+
+App is now deployed through Heroku
 
 ### Screenshots
 
