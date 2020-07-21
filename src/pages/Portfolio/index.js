@@ -13,10 +13,11 @@ class Portfolio extends Component {
   };
   render() {
     return (
-     
-        <div>
-          {/* <h1>Projects</h1> */}
-          <Title>Portfolio of Projects</Title>
+
+      <div className="container">
+        {/* <h1>Projects</h1> */}
+        <Title>Portfolio of Projects</Title>
+        <div className="row">
           {this.state.projects.map(project => (
             <PortfolioComponent
               id={project.id}
@@ -30,8 +31,9 @@ class Portfolio extends Component {
             />
           ))}
         </div>
-      );
-    }
+      </div>
+    );
   }
+}
 
 export default Portfolio;
