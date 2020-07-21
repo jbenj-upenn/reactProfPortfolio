@@ -21,37 +21,38 @@
 
 .background, .contact {
   border: 2px solid lightblue;
+  background-color: rgb(117, 111, 111) ;
 }
 
 .contact {
-  background-color:  rgb(209, 164, 164);
+  background-color:  rgb(117, 111, 111);
 }
 
 .bkgd {
-  background-color: rgb(136, 91, 91);
+  background-color: rgb(87, 81, 81);
   color: lightblue;
 }
 
 .c1 {
-  background-color: rgb(165, 120, 120);
+  background-color: rgb(114, 109, 109);
 }
 .c2 {
-  background-color: rgb(187, 145, 145);
+  background-color: rgb(143, 138, 138);
 }
 .c3 {
-  background-color: rgb(209, 164, 164);
+  background-color: rgb(161, 157, 157);
 }
 .c4 {
-  background-color: rgb(230, 196, 196);
+  background-color: rgb(179, 174, 174);
 }
 .c5 {
-  background-color: rgb(236, 211, 211);
+  background-color: rgb(194, 187, 187);
 }
 .c6 {
-  background-color: rgb(250, 234, 234);
+  background-color: rgb(216, 212, 212);
 }
 .c7 {
-  background-color: rgb(250, 248, 248);
+  background-color: rgb(228, 225, 225);
 }
 .l1 {
   background-color: rgb(138, 126, 126);
