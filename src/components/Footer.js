@@ -8,19 +8,19 @@ function Footer(props){
             backgroundColor: "#F8F8F8",
             borderTop: "1px solid #E7E7E7",
             textAlign: "center",
-            padding: "20px",
+            padding: "10px",
             position: "fixed",
             left: "0",
             bottom: "0",
-            height: "60px",
+            height: "30px",
             width: "100%",
         }
         return (
             <>
             <footer id="sticky-footer" className="fixed-bottom bg-dark text-white-50" style={stickyFooter}>
                 <div className="footer container text-center">
-                    <small>Joshua Benjamin</small>
-                   <br></br>
+                    <small>Joshua Benjamin *** </small>
+                   {/* <br></br> */}
                     <small>Copyright &copy; 2020</small>
                     
             {/* <div className="container"> */}
