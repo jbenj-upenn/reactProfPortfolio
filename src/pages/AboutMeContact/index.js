@@ -30,7 +30,7 @@ function AboutMe(props) {
                 <div className='card'>
                     <li className='l1'><strong>Email:</strong>joshuasevendavid@gmail.com</li>
                     <li className='l2'><strong>Phone:</strong>717.538.0866</li>
-                    <li className='l3'>See my <strong>Résumé <a href="../documents/JoshuaBenjamin.bootcampCV.ALT.2020.pdf">here</a></strong></li>
+                    <li className='l3'>See my <strong>Résumé <a href="../documents/codingCV2020.pdf">here</a></strong></li>
                     <li className='l4'>See my <strong>Github Page <a href="https://github.com/jbenj-upenn">here</a></strong></li>
                 </div>
                 <br></br>
