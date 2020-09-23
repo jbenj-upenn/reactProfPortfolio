@@ -20,7 +20,7 @@ App is now deployed through Heroku
 
 ### Screenshots
 
-![frontPageBasic](https://user-images.githubusercontent.com/59940368/88003139-26231e00-cad2-11ea-972d-c91d98d5b6a1.png)
+![frontPage1](https://user-images.githubusercontent.com/59940368/91361617-b6860a00-e7c6-11ea-86d3-5115882be5ea.png)
 
 ![portfolio1](https://user-images.githubusercontent.com/59940368/88003143-29b6a500-cad2-11ea-98c2-98750d0ce6b7.png)
 
