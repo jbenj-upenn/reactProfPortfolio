@@ -10,7 +10,7 @@ function AboutMe(props) {
                 <h2 className='bkgd'>Information about Josh Benjamin</h2>
                 <li className='card c2'><strong>***
                 Born and raised</strong> in the Bronx, NYC, living and working in Philly-/Lancaster, PA-areas</li>
-                <li className='card c3'><strong>***Received certification in August 2020 as a full-stack (front-end/back-end) computer coder
+                <li className='card c3'><strong>***Receive certificate in August 2020 as a full-stack (front-end/back-end) computer coder
                 through the University of Pennsylvania and Trilogy Educational Services</strong></li>
                 <li className='card c4'><strong>***</strong>Have had a career of 19 years to this point as a <strong>secondary and higher education instructor</strong></li>
                 <li className='card c5'><strong>***
