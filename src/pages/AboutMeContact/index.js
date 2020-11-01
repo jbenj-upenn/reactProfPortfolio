@@ -32,11 +32,10 @@ function AboutMe(props) {
                     <li className='l2'><strong>Phone:</strong>717.538.0866</li>
                     <li className='l3'>See my <strong>Résumé <a href="../documents/codingCV2020.2.pdf">here</a></strong></li>
                     <li className='l4'>See my <strong>Github Page <a href="https://github.com/jbenj-upenn">here</a></strong></li>
+                    <li>View my <a href="/portfolio"><strong>Full Portfolio</strong></a></li>
                 </div>
-                <br></br>
-                <br></br>
 
-                <h2>View my <a href="/portfolio">Full Portfolio</a></h2>
+                {/* <h2>View my <a href="/portfolio">Full Portfolio</a></h2> */}
             </div>
 
         </div>
