@@ -1,9 +1,16 @@
 import React from "react";
 // import "./style.css";
 
+const styles = {
+    sectionStyles: {
+      background: "rgb(195,190,205)",
+      padding: "35px",
+    }
+};
+
 function PortfolioComponent(props) {
     return (
-        <div className='card col-md-6'>
+        <div style={styles.sectionStyles} className='card col-md-6'>
             <h3 className='card-title'>
                 {props.name}
             </h3>
