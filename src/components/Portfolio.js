@@ -1,15 +1,18 @@
 import React from "react";
+import Title from "./Title.js"
 // import "./style.css";
 
 const styles = {
     sectionStyles: {
-      background: "rgb(195,190,205)",
+      background: "rgb(195,195,195)",
       padding: "35px",
     }
 };
 
 function PortfolioComponent(props) {
     return (
+        <>
+        <Title />
         <div style={styles.sectionStyles} className='card col-md-6'>
             <h3 className='card-title'>
                 {props.name}
@@ -36,6 +39,7 @@ function PortfolioComponent(props) {
             </h5>
             <hr></hr>
         </div>
+        </>
     );
 }
 
