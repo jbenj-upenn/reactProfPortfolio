@@ -48,7 +48,7 @@ function Footer(props){
                 </div> */}
                 </div>
                 
-                &copy; <script>new Date().getFullYear()>document.write(new Date().getFullYear());</script> property and creation of Joshua Benjamin.
+                &copy; <script>new Date().getFullYear()document.write(new Date().getFullYear());</script> property and creation of Joshua Benjamin.
             
             </footer>
 
