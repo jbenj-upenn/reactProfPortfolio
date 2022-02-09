@@ -23,7 +23,7 @@ function Footer(props){
                    {/* <br></br> */}
                     <small>Copyright &copy; 2022</small>
                     
-                    <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script>
+                    <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script> Joshua Benjamin
                     
             {/* <div className="container"> */}
                 
