@@ -49,6 +49,8 @@ function Footer(props){
                 </div>
                 
             </footer>
+            
+            <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script>
             </>
         )
 
