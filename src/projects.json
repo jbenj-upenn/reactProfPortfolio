@@ -1,5 +1,13 @@
 [
   {
+    "id": 1.1,
+    "name": "Szylagyi Law, LLC",
+    "image": "../images/frontPage.jpg",
+    "description": "The professional website for Szilagyi Law, LLC.",
+    "dependencies": "Custom HTML and CSS via Squarespace",
+    "url": "http://www.szylagyilawllc.com"
+  },
+  {
     "id": 1,
     "name": "Goal-Getter",
     "image": "../images/GGprofile2.png",
