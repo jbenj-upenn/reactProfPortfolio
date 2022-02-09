@@ -13,6 +13,7 @@ function Header(props) {
                     {/* <Nav.Link href="#portfolio">Portolio</Nav.Link> */}
 
                     <NavDropdown title="Portfolio Quick Links" id="basic-nav-dropdown">
+                        <NavDropdown.Item href="http://www.szylagyilawllc.com">Szilagyi Law, LLC</NavDropdown.Item>
                         <NavDropdown.Item href="https://goal-getters.herokuapp.com/">Goal-Getter App</NavDropdown.Item>
                         <NavDropdown.Item href="https://breaking-bread-donate.herokuapp.com/">Breaking Bread App</NavDropdown.Item>
                         <NavDropdown.Item href="https://jbenj-upenn.github.io/CovidActivities/">Covid Activities App</NavDropdown.Item>
