@@ -20,10 +20,10 @@ function Footer(props){
             <footer id="sticky-footer" className="fixed-bottom bg-dark text-white-50" style={stickyFooter}>
                 <div className="footer container text-center">
                     <small>Joshua Benjamin *** </small>
-                   {/* <br></br> */}
+                
                     <small>Copyright &copy; 2022</small>
                     
-                    <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script> Joshua Benjamin
+                    {/* CAN'T GET FOOTER SCRIPTS TO WORK <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script> Joshua Benjamin */}
                     
             {/* <div className="container"> */}
                 
@@ -48,7 +48,7 @@ function Footer(props){
                 </div> */}
                 </div>
                 
-                &copy; <script>new Date().getFullYear()document.write(new Date().getFullYear());</script> property and creation of Joshua Benjamin.
+                {/* CAN'T GET FOOTER SCRIPTS TO WORK: &copy; <script>new Date().getFullYear()document.write(new Date().getFullYear());</script> property and creation of Joshua Benjamin. */}
             
             </footer>
 
