@@ -48,8 +48,7 @@ function Footer(props){
                 </div> */}
                 </div>
                 
-                <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script>
-            </>
+                &copy; <script>new Date().getFullYear()>document.write(new Date().getFullYear());</script> property and creation of Joshua Benjamin.
             
             </footer>
 
