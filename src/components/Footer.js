@@ -22,10 +22,8 @@ function Footer(props){
                     <small>Joshua Benjamin *** </small>
                    {/* <br></br> */}
                     <small>Copyright &copy; 2022</small>
-                    {/* unsure how to incorporate auto-updates of year 
-                    <script type="text/javascript">
-  document.write(new Date().getFullYear());
-</script> */}
+                    
+                    <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script>
                     
             {/* <div className="container"> */}
                 
