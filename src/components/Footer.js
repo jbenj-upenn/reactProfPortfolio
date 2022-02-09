@@ -48,10 +48,12 @@ function Footer(props){
                 </div> */}
                 </div>
                 
-            </footer>
-            
-            <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script>
+                <script type="text/JavaScript"> var theDate=new Date() document.write(theDate.getFullYear()) </script>
             </>
+            
+            </footer>
+
+            
         )
 
     }
