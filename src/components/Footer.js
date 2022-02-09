@@ -21,7 +21,7 @@ function Footer(props){
                 <div className="footer container text-center">
                     <small>Joshua Benjamin *** </small>
                    {/* <br></br> */}
-                    <small>Copyright &copy; 2021</small>
+                    <small>Copyright &copy; 2022</small>
                     
             {/* <div className="container"> */}
                 
