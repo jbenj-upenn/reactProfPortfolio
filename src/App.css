@@ -29,13 +29,20 @@
 }
 
 .bkgd {
-  background-color: rgb(87, 81, 81);
-  color: lightblue;
+  background-color: rgb(128, 122, 122);
+  color: rgb(149, 16, 49);
 }
 
 .card {
   margin-top: 10px;
   padding: 10px;
+}
+
+
+.card:hover {
+  transform: scale(1.01);
+  background-color: white;
+  border: solid 2px;
 }
 
 .col1 {
@@ -52,6 +59,7 @@
 .c1 {
   background-color: rgb(114, 109, 109);
 }
+
 .c2 {
   background-color: rgb(143, 138, 138);
 }
@@ -86,7 +94,28 @@
   background-color: rgb(149, 16, 49) ;
 }
 .l5:hover {
-  background-color: limegreen;
+  
+    animation-name: background-color;
+    animation-duration: 400ms;
+    
+    /* Only change code below this line */
+    animation-fill-mode: forwards;
+    /* Only change code above this line */
+  }
+
+  @keyframes background-color {
+    100% {
+      background-color: #011e36;
+    }
+  }
+
+
+/* #Full {
+  text-transform: capitalize;
+} */
+
+.link {
+  color: #070bfa;
 }
 
 /* #viewPortfolio {
@@ -107,9 +136,9 @@
   color: white;
 }
 
-#viewPortfolio:hover {
+/* #viewPortfolio:hover {
   color: black;
-}
+} */
 .contact {
   padding-top: 40px;
 }

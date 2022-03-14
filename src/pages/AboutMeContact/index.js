@@ -41,12 +41,13 @@ function AboutMe(props) {
                     </div>
 
                     <div className='col2'>
-                    <li className='card l3'>See my <strong>Résumé <a href="./documents/codingCV2020.2.pdf">here</a></strong></li>
-                    <li className='card l4'>See my <strong>Github Page <a href="https://github.com/jbenj-upenn">here</a></strong></li>
+                    <li className='card l3'>See my <strong>Résumé <a className="link" href="./documents/codingCV2020.2.pdf">here</a></strong></li>
+                    <li className='card l4'>See my <strong>Github Page <a className="link" href="https://github.com/jbenj-upenn">here</a></strong></li>
+                    
                     </div>
+                    
                     </div>
-
-                    <li className=' card l5' id='viewPortfolio' ><strong>View my <a href="/portfolio">Full Portfolio</a></strong></li>
+                    <li className=' card l5' id='viewPortfolio' ><strong>View my <a id="Full" href="/portfolio">Full Portfolio</a></strong></li>
                 </div>
 
                 {/* <h2>View my <a href="/portfolio">Full Portfolio</a></h2> */}
