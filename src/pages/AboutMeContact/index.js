@@ -11,7 +11,7 @@ function AboutMe(props) {
         <div className='row'>
 
             <div className='col-md-6 background'>
-                <h2 className='bkgd'>Information about Josh Benjamin</h2>
+                <h2 className='bkgd'>I'm Josh Benjamin.<br></br>Nice to meet you!<br></br> Here's a bit about me.</h2>
                 <li className='card c2'><strong>***
                 Born and raised</strong> in the Bronx, NYC, living and working in Philly-/Lancaster, PA-areas</li>
                 <li className='card c2'>***

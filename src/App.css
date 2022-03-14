@@ -30,7 +30,22 @@
 
 .bkgd {
   background-color: rgb(128, 122, 122);
-  color: rgb(149, 16, 49);
+  color: rgb(2, 4, 5);
+}
+
+.bkgd:hover {
+  animation-name: bkgd;
+    animation-duration: 400ms;
+    
+    /* Only change code below this line */
+    animation-fill-mode: forwards;
+    /* Only change code above this line */
+  }
+
+  @keyframes bkgd {
+    100% {
+      background-color: #f4f6f7;
+    }
 }
 
 .card {
@@ -38,11 +53,19 @@
   padding: 10px;
 }
 
-
 .card:hover {
-  transform: scale(1.01);
-  background-color: white;
-  border: solid 2px;
+  animation-name: card;
+  animation-duration: 400ms;
+  
+  /* Only change code below this line */
+  animation-fill-mode: forwards;
+  /* Only change code above this line */
+}
+
+@keyframes card {
+  100% {
+    background-color: #f4f6f7;
+  } 
 }
 
 .col1 {
