@@ -22,7 +22,7 @@ function Footer(props){
                     <small>Joshua Benjamin *** </small>
                    {/* <br></br> */}
                     <small>Copyright &copy; 2022</small>
-                
+                </div>
             </footer>
             </>
         )

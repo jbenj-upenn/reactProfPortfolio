@@ -1,5 +1,4 @@
 import React from 'react';
-import './style.css';
 // import './App';
 // import Portfolio from './components/Portfolio'
 
@@ -35,11 +34,19 @@ function AboutMe(props) {
                 </div>
                 <h2>Contact Me:</h2>
                 <div className='card'>
-                    <li className='l1'><strong>Email:</strong> joshuasevendavid@gmail.com</li>
-                    <li className='l2'><strong>Phone:</strong>717.538.0866</li>
-                    <li className='l3'>See my <strong>Résumé <a href="./documents/codingCV2020.2.pdf">here</a></strong></li>
-                    <li className='l4'>See my <strong>Github Page <a href="https://github.com/jbenj-upenn">here</a></strong></li>
-                    <li>View my <a href="/portfolio"><strong>Full Portfolio</strong></a></li>
+                    <div className='row'>
+                    <div className='col1'>
+                    <li className='card l1'><strong>Email:</strong> joshuasevendavid@gmail.com</li>
+                    <li className='card l2'><strong>Phone:</strong>717.538.0866</li>
+                    </div>
+
+                    <div className='col2'>
+                    <li className='card l3'>See my <strong>Résumé <a href="./documents/codingCV2020.2.pdf">here</a></strong></li>
+                    <li className='card l4'>See my <strong>Github Page <a href="https://github.com/jbenj-upenn">here</a></strong></li>
+                    </div>
+                    </div>
+
+                    <li className=' card l5' id='viewPortfolio' ><strong>View my <a href="/portfolio">Full Portfolio</a></strong></li>
                 </div>
 
                 {/* <h2>View my <a href="/portfolio">Full Portfolio</a></h2> */}
