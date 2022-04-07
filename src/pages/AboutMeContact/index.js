@@ -41,7 +41,7 @@ function AboutMe(props) {
                     </div>
 
                     <div className='col2'>
-                    <li className='card l3'>See my <strong>Résumé <a className="link" href="./documents/codingCV2020.5.pdf">here</a></strong></li>
+                    <li className='card l3'>See my <strong>Résumé <a className="link" href="./documents/inveniolsiCV2020.5.pdf">here</a></strong></li>
                     <li className='card l4'>See my <strong>Github Page <a className="link" href="https://github.com/jbenj-upenn">here</a></strong></li>
                     
                     </div>
