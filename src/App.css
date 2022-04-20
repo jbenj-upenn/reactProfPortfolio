@@ -115,12 +115,13 @@
   background-color: rgb(172, 160, 160) ;
 }
 .l5 {
+  
   background-color: rgb(149, 16, 49) ;
 }
 .l5:hover {
   
     animation-name: background-color;
-    animation-duration: 400ms;
+    animation-duration: 2000ms;
     
     /* Only change code below this line */
     animation-fill-mode: forwards;
@@ -130,6 +131,8 @@
   @keyframes background-color {
     100% {
       background-color: #011e36;
+      padding: 50px;
+      border-radius: 90%;
     }
   }
 
@@ -137,7 +140,7 @@
 /* #Full {
   text-transform: capitalize;
 } */
-
+ 
 .link {
   color: #070bfa;
 }
