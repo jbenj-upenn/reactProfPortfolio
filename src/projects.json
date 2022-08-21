@@ -7,15 +7,15 @@
     "dependencies": "Custom HTML and CSS via Squarespace",
     "url": "http://www.szilagyilawllc.com/"
   },
-  {
-    "id": 1,
-    "name": "Goal-Getter",
-    "image": "../images/GGprofile2.png",
-    "description": "Goal-Getter is a social-goal-sharing app designed to connect individuals with similar goals.",
-    "dependencies": "Mongo, Express, React, Node (MERN)",
-    "url": "https://goal-getters.herokuapp.com/",
-    "github": "https://github.com/mnicolai20/GoalGetter"
-  },
+  // {
+  //   "id": 1,
+  //   "name": "Goal-Getter",
+  //   "image": "../images/GGprofile2.png",
+  //   "description": "Goal-Getter is a social-goal-sharing app designed to connect individuals with similar goals.",
+  //   "dependencies": "Mongo, Express, React, Node (MERN)",
+  //   "url": "https://goal-getters.herokuapp.com/",
+  //   "github": "https://github.com/mnicolai20/GoalGetter"
+  // },
     {
       "id": 2,
       "name": "Breaking Bread",
@@ -69,6 +69,15 @@
       "dependencies": "HTML, Bootstrap CSS framework, Javascript, jQuery (AJAX calls)",
       "url": "https://jbenj-upenn.github.io/WeatherOutlook_6/",
       "github": "https://github.com/jbenj-upenn/WeatherOutlook_6"
+    },
+    {
+      "id": 1,
+      "name": "Goal-Getter",
+      "image": "../images/GGprofile2.png",
+      "description": "Goal-Getter is a social-goal-sharing app designed to connect individuals with similar goals.",
+      "dependencies": "Mongo, Express, React, Node (MERN)",
+      "url": "https://goal-getters.herokuapp.com/",
+      "github": "https://github.com/mnicolai20/GoalGetter"
     }
   ]
     
