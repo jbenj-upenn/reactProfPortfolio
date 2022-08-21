@@ -16,7 +16,7 @@ class Portfolio extends Component {
 
       <div className="container">
         {/* <h1>Projects</h1> */}
-        <Title>Portfolioa</Title>
+        <Title>Portfolio</Title>
         <div className="row">
           {this.state.projects.map(project => (
             <PortfolioComponent
