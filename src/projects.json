@@ -17,7 +17,7 @@
     "github": "https://github.com/mnicolai20/GoalGetter"
   },
     {
-      "id": 2,
+      "id": 7,
       "name": "Breaking Bread",
       "image": "../images/breakingBreadDonations.png",
       "description": "Breaking Bread is an app designed to connect organizations or individuals that deal with hunger with restaurants, food banks, or individuals who has the means to meet those hunger-related needs.",
@@ -26,7 +26,7 @@
       "github": "https://github.com/ksmera01/Breaking-Bread"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Covid Activities",
       "image": "../images/covidActivitiesfront.png",
       "description": "Covid Activities is an app that my group and I developed to alleviate bored during the quarantine. In our version, users are able to search for either food recipes based on specific ingredients or culinary preferences, or they can search for books based on author or genre.",
@@ -35,7 +35,7 @@
       "github": "https://github.com/jbenj-upenn/CovidActivities"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Personal Profile",
       "image": "../images/firstPortfolio.png",
       "description": "My first professional portfolio displays general information about me, contact information, a portfolio page, and links to my social media presences.",
@@ -44,7 +44,7 @@
       "github": "https://github.com/jbenj-upenn/personal-profile-v2020"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Burger Smash: Burger Consumption Tracker and Planner",
       "image": "../images/burgerSmash.png",
       "description": "Burger Smash was completed as a homework assignment in the University of Pennsylvania's/Trilogy Educational Service's full-stack computer coding bootcamp. It is a front- and back-end application that is able to allow users to enter new burgers to eat, delete those already consumed, and keep a list of the same.",
@@ -53,7 +53,7 @@
       "github": "https://github.com/jbenj-upenn/burgerSmash"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Express Note-Taker",
       "image": "../images/expressNoteTaker2.png",
       "description": "The Express Note-Taker was completed as a homework assignment. The app allows users to create notes that persist until they are deleted.",
@@ -62,7 +62,7 @@
       "github": "https://github.com/jbenj-upenn/expressNoteTaker"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Weather Outlook",
       "image": "../images/weatherApp.png",
       "description": "The Weather App makes API calls according to the town a user would like outlook information for.",
