@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Title from "../../components/Title"
 // import Wrapper from "./Wrapper"
 import projects from '../../projects.json';
-import PortfolioComponent from '../../components/Portfolio'
+import PortfolioComponent from '../../components/Portfolio';
 // import App from '../App'
 // import AboutMeContact from './pages/AboutMeContact'
 // import "./style.css";
@@ -19,6 +19,7 @@ class Portfolio extends Component {
         <Title>Portfolio</Title>
         <div className="row">
           {this.state.projects.map(project => (
+            
             <PortfolioComponent
               id={project.id}
               key={project.id}
@@ -29,6 +30,7 @@ class Portfolio extends Component {
               url={project.url}
               github={project.github}
             />
+
           ))}
         </div>
       </div>

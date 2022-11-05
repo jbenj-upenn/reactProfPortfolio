@@ -15,7 +15,7 @@ function AboutMe(props) {
                 <li className='card c2'><strong>***
                 Born and raised</strong> in the Bronx, NYC, living and working in Philly-/Lancaster, PA-areas</li>
                 <li className='card c2'>***
-                Presently working for <strong>invenioLSI</strong> as an Associate Software Consultant</li>
+                Presently working for <strong>Michael Management</strong> as an SAP Help Desk Specialist</li>
                 <li className='card c3'><strong>***Received certificate in August 2020 as a full-stack (front-end/back-end) computer coder
                 through the University of Pennsylvania and Trilogy Educational Services</strong></li>
                 <li className='card c4'><strong>***</strong>Have had a career of 19 years to this point as a <strong>secondary and higher education instructor</strong></li>
@@ -47,7 +47,7 @@ function AboutMe(props) {
                     </div>
                     
                     </div>
-                    <li className=' card l5' id='viewPortfolio' ><strong>View my <a id="Full" href="/portfolio">Full Portfolio</a></strong></li>
+                    <li className='card l5' id='viewPortfolio' ><strong>View my <a id="Full" href="/portfolio">Full Portfolio</a></strong></li>
                 </div>
 
                 {/* <h2>View my <a href="/portfolio">Full Portfolio</a></h2> */}

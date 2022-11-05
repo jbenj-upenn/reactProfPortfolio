@@ -10,7 +10,7 @@ const styles = {
 };
 
 
-function PortfolioComponent(props) {
+function PortfolioComponentNoGH(props) {
     return (
         <>
         <Title />
@@ -35,13 +35,9 @@ function PortfolioComponent(props) {
                 <p><a href={props.url}>Check it out here</a></p>
             </h5>
             <hr></hr>
-            <h5>
-                <p><a href={props.github}>See the code on Github here</a></p>
-            </h5>
-            <hr></hr>
         </div>
         </>
     );
 }
 
-export default PortfolioComponent;
+export default PortfolioComponentNoGH;

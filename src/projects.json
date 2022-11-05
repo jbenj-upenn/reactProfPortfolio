@@ -1,6 +1,14 @@
 [
   {
     "id": 1.1,
+    "name": "Fifty Twenty Wellness",
+    "image": "../images/fiftytwenty_main.png",
+    "description": "The professional website for Fifty Twenty Wellness.",
+    "dependencies": "Custom HTML and CSS via Squarespace",
+    "url": "http://www.fiftytwentywellness.com/"
+  },
+  {
+    "id": 1.2,
     "name": "Szilagyi Law, LLC",
     "image": "../images/frontPage.jpg",
     "description": "The professional website for Szilagyi Law, LLC.",
